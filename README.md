@@ -1,4 +1,4 @@
-# BWMCoverView 
+# BWMAlertView
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) 
 [![forks](https://img.shields.io/github/forks/Nihility-Ming/BWMAlertView.svg)](#)
@@ -6,19 +6,17 @@
 
 It integrates multiple third-party alertView, use the adapter mode built.
 
+它集成了多种第三方alertView ，使用适配器模式建造。
+
 Successful adaptation of the following third-party AlertView:
 
->
-> SIAlertView
->
-> SCLAlertView
->
-> HHAlertView 
->
-> UIAlertView
->  
-> DXAlertView
->
+成功适配了以下第三方AlertView：
+
+* UIAlertView
+* SIAlertView
+* SCLAlertView
+* HHAlertView 
+* DXAlertView
 
 #### Screenshot
 
