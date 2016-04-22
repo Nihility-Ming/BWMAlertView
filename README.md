@@ -35,7 +35,7 @@ Build and run the `BWMAlertView.xcodeproj` project in Xcode.
 
 ## Installation
 
-Drag `BWMCoverView/Classes` files into your project, and add `#include "BWMCoverView.h"` to the top of classes that will use it.
+Drag `BWMAlertView/Classes` files into your project, and add `#include "BWMAlertView.h"` to the top of classes that will use it.
 
 ## Usage
 
